@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains several lines of text.
+Each line represents different information.
+This is the fourth line.
+This is the fifth line.

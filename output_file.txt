@@ -1,0 +1,14 @@
+--- Start of Combined File ---
+Header1 Header2
+name,age,city
+Alice,30,New York
+Bob,25,Los Angeles
+Charlie,35,Chicago
+Diana,28,Houston
+Edward,40,San Francisco
+This is a sample text file.
+It contains several lines of text.
+Each line represents different information.
+This is the fourth line.
+This is the fifth line.
+--- End of Combined File ---
